@@ -1,0 +1,1 @@
+{"name":"Local: Oil_Mines","url":"/Users/karankamath/Desktop/Samsung/Oil_Mines.java","tests":[{"id":1730805317876,"input":"2\n2 4 \n6 10 13 2\n2 4\n6 13 10 2","output":"1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/karankamath/Desktop/Samsung/Oil_Mines.java","group":"local","local":true}
